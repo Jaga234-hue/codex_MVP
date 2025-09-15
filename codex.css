@@ -17,6 +17,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 10px;
+  overflow:hidden;
 }
 
 
@@ -344,4 +345,5 @@ textarea {
   color: #4a6491;
   text-decoration: none;
 }
+
 
