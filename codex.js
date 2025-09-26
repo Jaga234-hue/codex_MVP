@@ -23,9 +23,7 @@ tabs.forEach((tab) => {
 // Simulate location detection
 setTimeout(() => {
   const locations = [
-    "123 Main Street, City Center",
-    "456 Park Avenue, Downtown",
-    "789 Riverside Drive, West District",
+    "123 Main Street, bijupatnaik chowk",
   ];
   const randomLocation =
     locations[Math.floor(Math.random() * locations.length)];
